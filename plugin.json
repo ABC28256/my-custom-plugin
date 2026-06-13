@@ -1,0 +1,8 @@
+{
+  "name": "my-custom-plugin",
+  "version": "1.0.0",
+  "description": "My custom commands and skills",
+  "author": {
+    "name": "User"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "project-estimation": {
+      "source": "aj-geddes/useful-ai-prompts",
+      "sourceType": "github",
+      "skillPath": "skills/project-estimation/SKILL.md",
+      "computedHash": "30e07d3057275d7c37ac876c5e04b7272dc757984e1246965d187dd24cc31513"
+    }
+  }
+}
